@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - central part of code
+ * main - central part of code and prints sizes
  *
  * Return: gives back 0
  */
